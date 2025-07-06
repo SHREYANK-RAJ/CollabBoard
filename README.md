@@ -17,6 +17,6 @@
 4. Run main: `java -cp out Main`
 
 ## 🧠 Designed & Built By
-**Shreyash Raj**  
+**Shreyank Raj**  
 _Backend Java Intern_  
-[GitHub Profile](https://github.com/shreyashraj8)
+[GitHub Profile](https://github.com/SHREYANK-RAJ)
